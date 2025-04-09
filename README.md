@@ -1,4 +1,4 @@
-<h2 align="left">Vz👋! My name is Cristian</h2>
+<h2 align="left">I am Cristian</h2>
 
 ###
 
