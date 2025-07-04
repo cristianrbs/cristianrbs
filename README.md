@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">💻 Estudante de Ciência da Computação – IF Sudeste MG<br>📚 Primeiro período<br>👨‍💻 Explorando C++<br>🎲 Fun fact: ...</p>
 
 ###
 
