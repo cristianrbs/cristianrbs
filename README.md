@@ -1,5 +1,3 @@
-# **Cristian Rubens**
-
 ## 🧠 Sobre mim
 
 🎓 Graduando em **Ciência da Computação**<br>
