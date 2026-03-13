@@ -23,9 +23,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianrbs\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianrbs\&layout=compact\&theme=tokyonight)
 
 ---
 
