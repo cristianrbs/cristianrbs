@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">💻 Estudante de Ciência da Computação – IF Sudeste MG<br>📚 Terceiro período<br>👨‍💻 Explorando C++<br></p>
+<p align="left">💻 Estudante de Ciência da Computação – IF Sudeste MG<br>📚 Terceiro período<br>👨‍💻 Explorando C++ e Java<br></p>
 
 ###
 
