@@ -29,6 +29,7 @@
 
 ## ⚙️ Ferramentas do dia a dia
 <div align>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" alt="netbeans logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
