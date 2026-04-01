@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianrbs\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianrbs\&layout=compact\&theme=tokyonight)
-
----
-
 ## ⚙️ Ferramentas do dia a dia
 <div align>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" alt="netbeans logo" />
