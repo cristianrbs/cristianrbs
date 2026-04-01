@@ -19,6 +19,12 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<img src="https://streak-stats.demolab.com?user=cristianrbs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+---
+
 ## ⚙️ Ferramentas do dia a dia
 <div align>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" alt="netbeans logo" />
