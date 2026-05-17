@@ -10,23 +10,11 @@
 
 ---
 
-## 🛠️ Linguagens que utilizo
+## 🛠️ Linguagens e ferramentas que utilizo
 
 <div align>
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<img src="https://streak-stats.demolab.com?user=cristianrbs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
----
-
-## ⚙️ Ferramentas do dia a dia
-<div align>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" alt="netbeans logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
