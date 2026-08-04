@@ -7,6 +7,7 @@
 * Inteligência Artificial
 * Estruturas de Dados e Algoritmos
 * Automação de processos
+* Gerência de Projetos
 
 ---
 
