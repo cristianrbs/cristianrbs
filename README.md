@@ -1,17 +1,17 @@
-## 🧠 Sobre mim
+## Sobre mim
 
-🎓 Graduando em **Ciência da Computação**<br>
-📚 Sempre estudando novas tecnologias e boas práticas de programação<br>
-🔎 Interesses principais:
+ Graduando em **Ciência da Computação**<br>
+ Sempre estudando novas tecnologias e boas práticas de programação<br>
+ Interesses principais:
 
+* Gerência de Projetos
+* Automação de processos
 * Inteligência Artificial
 * Estruturas de Dados e Algoritmos
-* Automação de processos
-* Gerência de Projetos
 
 ---
 
-## 🛠️ Linguagens e ferramentas que utilizo
+## Linguagens e ferramentas que utilizo
 
 <div align>
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌐 Redes sociais
+## Redes sociais
 
 <div align>
   <a href="https://www.linkedin.com/in/cristian-rubens-892b46382/" target="_blank">
