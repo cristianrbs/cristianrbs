@@ -16,7 +16,6 @@
 <div align>
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="50" alt="netbeans logo" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
